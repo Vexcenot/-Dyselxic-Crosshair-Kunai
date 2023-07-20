@@ -77,11 +77,19 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/bigcrosshair7"
+				"file"		"vgui/replay/thumbnails/xhair_shotgun_fixed"
 				"x"		"0"
 				"y"		"0"
-				"width"		"64"
-				"height"	"64"
+				"width"		"512"
+				"height"	"512"
+		}
+		"zoom"
+		{
+				"file"		"vgui/replay/thumbnails/xsniper"
+				"x"		"0"
+				"y"		"0"
+				"width"		"512"
+				"height"	"512"
 		}
 		"autoaim"
 		{
