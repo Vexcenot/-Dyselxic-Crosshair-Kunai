@@ -1,0 +1,9 @@
+// Load the base configuration
+//exec default.cfg
+
+// Run a user script file if present
+exec autoexec.cfg
+
+// Stuff command line statements
+cl_crosshair_file  ""
+cl_crosshair_scale 31.9
