@@ -76,7 +76,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/xhair_shotgun_fixed"
+				"file"		"vgui/replay/thumbnails/xhair_shortstop"
 				"x"		"0"
 				"y"		"0"
 				"width"		"512"
