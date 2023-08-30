@@ -82,7 +82,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/xhair_flare"
+				"file"		"vgui/replay/thumbnails/xjar"
 				"x"		"0"
 				"y"		"0"
 				"width"		"512"

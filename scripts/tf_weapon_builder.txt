@@ -54,11 +54,11 @@ WeaponData
 
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/engie"
+				"file"		"vgui/replay/thumbnails/xbuildbox"
 				"x"		"0"
 				"y"		"0"
-				"width"		"64"
-				"height"	"64"
+				"width"		"512"
+				"height"	"512"
 		}
 		"autoaim"
 		{
