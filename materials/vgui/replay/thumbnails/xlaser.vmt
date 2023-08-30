@@ -1,7 +1,7 @@
 "UnlitGeneric"
 {
 "$translucent" 1
-"$basetexture" "vgui\replay\thumbnails\laser"
+"$basetexture" "vgui\replay\thumbnails\xlaser"
 "$vertexcolor" 1
 "$no_fullbright" 1
 "$ignorez" 1
