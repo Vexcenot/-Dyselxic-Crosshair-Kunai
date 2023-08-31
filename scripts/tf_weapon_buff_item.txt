@@ -66,11 +66,11 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/banner"
+				"file"		"vgui/replay/thumbnails/xtoot"
 				"x"		"0"
 				"y"		"0"
-				"width"		"64"
-				"height"	"64"
+				"width"		"512"
+				"height"	"512"
 		}
 		"autoaim"
 		{
