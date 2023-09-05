@@ -1,3 +1,5 @@
+Preview: https://imgur.com/a/QpvJJ1K
+
 HOW TO INSTALL:
 
 1. UNZIP DYSLEXIC-CROSSHAIR IN YOUR "customs" FOLDER.
