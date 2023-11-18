@@ -1,9 +1,23 @@
-// Load the base configuration
+// load the base configuration
 //exec default.cfg
+r_decal_cullsize 1
 
-// Run a user script file if present
+// Setup custom controller
+exec joystick.cfg
+
+// run a user script file if present
 exec autoexec.cfg
 
-// Stuff command line statements
+//
+// stuff command line statements
+//
+stuffcmds
+
+// display the startup level
+startupmenu
+
+sv_unlockedchapters 99
+
+// Dyslexic Crosshair setup
 cl_crosshair_file  ""
 cl_crosshair_scale 31.9
