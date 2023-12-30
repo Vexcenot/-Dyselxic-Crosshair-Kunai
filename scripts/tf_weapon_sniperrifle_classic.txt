@@ -77,7 +77,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/unscoped"
+				"file"		"vgui/replay/thumbnails/xhair_smgrevolver"
 				"x"		"0"
 				"y"		"0"
 				"width"		"512"

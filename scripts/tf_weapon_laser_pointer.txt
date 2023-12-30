@@ -79,7 +79,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/xbuildlaser"
+				"file"		"vgui/replay/thumbnails/xwrangler"
 				"x"		"0"
 				"y"		"0"
 				"width"		"512"
