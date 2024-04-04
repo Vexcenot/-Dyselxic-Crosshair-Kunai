@@ -14,5 +14,5 @@ I probably sent you this link because you asked me "wtf is that crosshair".
 
 Gamebanana: https://gamebanana.com/mods/456577
 
-DO IT YOUR DAMN SELF: https://shorturl.at/dszX6
+DO IT YOUR DAMN SELF: https://pixeldrain.com/u/jvXxws1H
 The original file used to make this shit.
